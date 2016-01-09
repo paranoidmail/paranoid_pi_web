@@ -1,7 +1,7 @@
-Git rpository for http://paranoidpi.com
+Git repository for http://paranoidpi.com
 =======================================
 
-This repository desinged to maintain the bootstrap presentation of the project Paranoid Pi
+This repository designed to maintain the bootstrap presentation of the project Paranoid Pi
 
 Version
 -------
@@ -11,7 +11,7 @@ Version
 Author
 ------
 
-Paranid Team, code taken from https://github.com/IronSummitMedia/startbootstrap-creative
+Paranoid Team, code taken from https://github.com/IronSummitMedia/startbootstrap-creative
 
 Contact
 -------
